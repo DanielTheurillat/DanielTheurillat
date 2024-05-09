@@ -1,4 +1,5 @@
-### Hi there 👋
+I want to study physics  at university.
+I'm currently learning frontend development.
 
 <!--
 **DanielTheurillat/DanielTheurillat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
